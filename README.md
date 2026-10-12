@@ -5,7 +5,7 @@
 
 <img src="https://github.com/alliesternitzky.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
 
-# Hi there, I'm Allie Sternitzky
+# Hello there, I'm Allie Sternitzky
 
 **Allie Sternitzky**
 
