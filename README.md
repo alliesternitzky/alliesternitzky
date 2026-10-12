@@ -39,6 +39,7 @@
   <img src="https://credly.com" alt="Alexandria Sternitzky's A+ badge" width="150" height="150" />
 </a>
 
+
 ## Course Portfolio
 
 <details>
