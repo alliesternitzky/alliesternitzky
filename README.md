@@ -37,8 +37,8 @@
 |---|---|---|---|
 | Microsoft Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/alliesternitzky-2351/credentials/certification/azure-ai-fundamentals?tab=credentials-tab) | ![](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main) |
 | CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | <a href="https://credly.com" title="Allie Sternitzky's CompTIA A+ badge">
-  <img src="https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="Alexandria Sternitzky's A+ badge" width="50" height="50" />
-</a> |
+  <img src="https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="Alexandria Sternitzky's A+ badge" width="50" height="50" />|
+</a> 
 
 
 
