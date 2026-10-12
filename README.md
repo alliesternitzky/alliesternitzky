@@ -35,7 +35,7 @@
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | — |
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8458e73d-f9d5-48a4-ac4e-7a1e4080e383" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> |
 
 ---
 
