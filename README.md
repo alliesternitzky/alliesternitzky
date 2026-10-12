@@ -35,11 +35,7 @@
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | [![Alexandria Sternitzky's Credly Badge]([https://credly.com](https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob))]([https://credly.com](https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob))
- |
-
----
-
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | [![Alexandria Sternitzky's Credly Badge](https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob0](https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)
 ## Course Portfolio
 
 <details>
