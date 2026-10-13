@@ -1,15 +1,14 @@
-[README.md](https://github.com/user-attachments/files/33349977/README.md)
 <!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22alliesternitzky%22%2C%22name%22%3A%22Allie%20Sternitzky%22%2C%22email%22%3A%22a.s.sternitzky%40gmail.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fallie-sternitzky-a1ab4a14b%2F%22%2C%22resume%22%3A%22https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Slc7gc_hBDiL738pbvCgVsrSvmHaZ-dM%2Fedit%3Fusp%3Dsharing%26ouid%3D102231636383215743902%26rtpof%3Dtrue%26sd%3Dtrue%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A3%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22BIOS%2FUEFI%22%2C%22Storage%20Devices%22%2C%22Command%20Line%22%2C%22Peripheral%20Devices%22%2C%22DNS%22%2C%22DHCP%22%2C%22Firewalls%22%2C%22Wi-Fi%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CompTIA%20A%2B%22%2C%22issuer%22%3A%22CompTIA%22%2C%22link%22%3A%22https%3A%2F%2Fwww.credly.com%2Fusers%2Falexandria-sternitzky%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
 <img src="https://github.com/alliesternitzky.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
 
-# Hello there, I'm Allie Sternitzky
+# Hi there, I'm Allie Sternitzky
 
 **Allie Sternitzky**
 
-*ITSA Instructor*
+*ITSA Student*
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allie-sternitzky-a1ab4a14b/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40alliesternitzky-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alliesternitzky) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.s.sternitzky@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-8250df?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1Slc7gc_hBDiL738pbvCgVsrSvmHaZ-dM/edit?usp=sharing&ouid=102231636383215743902&rtpof=true&sd=true)
 
@@ -35,12 +34,53 @@
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| Microsoft Azure AI Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/alliesternitzky-2351/credentials/certification/azure-ai-fundamentals?tab=credentials-tab) | ![](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main "Allie Sternitzky's Microsoft Azure AI badge") |
-| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | <a href="https://credly.com" title="Allie Sternitzky's CompTIA A+ badge"><img src="https://images.credly.com/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="Alexandria Sternitzky's A+ badge" width="100" height="100" /></a> |
+| CompTIA A+ | CompTIA | [Verify](https://www.credly.com/users/alexandria-sternitzky) | — |
 
+---
 
+## Course Portfolio
 
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
 
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
 
 ---
 
