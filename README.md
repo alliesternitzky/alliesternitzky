@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🏆 Certifications 
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
