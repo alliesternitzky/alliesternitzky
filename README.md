@@ -51,6 +51,7 @@
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
 | Lab | Badge |
+|---|---|
 | Develope Your First Agent with Microsoft Foundry | - |
 
 </details>
