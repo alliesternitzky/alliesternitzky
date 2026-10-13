@@ -50,7 +50,8 @@
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+| Lab | Badge |
+| Develope Your First Agent with Microsoft Foundry | - |
 
 </details>
 
