@@ -4,11 +4,11 @@
 
 <img src="https://github.com/alliesternitzky.png" width="150" style="border-radius:50%;border:4px solid #8250df"/>
 
-# Hi there, I'm Allie Sternitzky
+# Hello there, I'm Allie Sternitzky
 
 **Allie Sternitzky**
 
-*ITSA Student*
+*ITSA Instructor*
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allie-sternitzky-a1ab4a14b/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40alliesternitzky-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alliesternitzky) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.s.sternitzky@gmail.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-8250df?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1Slc7gc_hBDiL738pbvCgVsrSvmHaZ-dM/edit?usp=sharing&ouid=102231636383215743902&rtpof=true&sd=true)
 
